@@ -1,8 +1,8 @@
-🍅 Tomato Leaf Disease Detection using YOLO
+<h1>🍅 Tomato Leaf Disease Detection using YOLO</h1>
 
 Tomatoes stand out as a prevalent crop extensively employed in cooking and extensively cultivated by farmers. Yet, challenges persist in their cultivation, notably concerning leaf diseases that can impede their growth. This project aims to address such challenges through the implementation of a tomato leaf disease detection model employing the YOLOv5 algorithm. The dataset utilized, sourced from Kaggle, comprises 737 images of tomato leaves. The obtained results demonstrate the model's effectiveness, achieving a mean Average Precision (mAP) score of 76.07%. This underscores its potential utility in the tomato farming sector. 
 
-🔍 Project Overview
+<h2>🔍 Project Overview</h2>
 
 This project uses YOLO (You Only Look Once) to detect and classify tomato leaf conditions such as:
 
@@ -15,7 +15,7 @@ This project uses YOLO (You Only Look Once) to detect and classify tomato leaf c
 
 The model was trained on a labeled dataset of tomato leaves and evaluated using standard YOLO metrics including precision, recall, mAP, and confusion matrix evaluation.
 
-🧠 Key Features
+<h2>🧠 Key Features</h2>
 
 - Real-time disease detection
 - High accuracy using deep learning
@@ -24,7 +24,7 @@ The model was trained on a labeled dataset of tomato leaves and evaluated using 
 - Easy-to-run inference script
 - Visualized predictions and charts
 
-🏗️ Tech Stack
+<h2>🏗️ Tech Stack</h2>
 
 - YOLOv5 
 - Python 3.10
@@ -33,7 +33,7 @@ The model was trained on a labeled dataset of tomato leaves and evaluated using 
 - Matplotlib
 - Google Colab
 
-🚜 Use Case
+<h2>🚜 Use Case</h2>
 
 This project can be used for:
 
@@ -43,7 +43,7 @@ This project can be used for:
 - Mobile or IoT plant diagnosis apps
 - Research and academic projects
 
-🧑‍💻 Author
+<h2>🧑‍💻 Author</h2>
 
 - Jethro P. Moleno
 - Computer Engineering – Mapúa University
