@@ -32,3 +32,20 @@ The model was trained on a labeled dataset of tomato leaves and evaluated using 
 - NumPy
 - Matplotlib
 - Google Colab
+
+🚜 Use Case
+
+This project can be used for:
+
+- Smart farming
+- Automated plant disease monitoring
+- Agricultural robotics
+- Mobile or IoT plant diagnosis apps
+- Research and academic projects
+
+🧑‍💻 Author
+
+- Jethro P. Moleno
+- Computer Engineering – Mapúa University
+- Email: jethromoleno@gmail.com
+- LinkedIn: www.linkedin.com/in/jethromoleno
