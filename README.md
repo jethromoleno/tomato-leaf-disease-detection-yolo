@@ -19,7 +19,7 @@ The model was trained on a labeled dataset of tomato leaves and evaluated using 
 
 - Real-time disease detection
 - High accuracy using deep learning
-- Trained with YOLOv5 / YOLOv7 / YOLOv8 (choose your version)
+- Trained with YOLOv5
 - Clean dataset with bounding boxes
 - Easy-to-run inference script
 - Visualized predictions and charts
